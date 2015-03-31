@@ -1,6 +1,10 @@
 CHANGE LOG
 ==========
 
+0.1.5
+-----
+    * Link in banner.
+
 0.1.4
 -----
     * PEP8 clean up.
