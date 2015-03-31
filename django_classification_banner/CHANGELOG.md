@@ -3,6 +3,7 @@ CHANGE LOG
 
 0.1.5
 -----
+    * Fix typo.
     * Added link setting to README.
     * Link in banner.
 
